@@ -36,6 +36,6 @@ localhost:3000/user<br/>
 </br>
 <br/>
 
-API for upload newsletter csv upload (bulk_email csv file is already inside the application)
+API for upload newsletter csv upload (bulk_email csv file is already inside the application)<br/>
 localhost:3000/queue/newletter-csv<br/>
 file: <bulk_email>
